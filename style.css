@@ -1,0 +1,30 @@
+
+body{
+    background-color: seagreen;
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    margin: auto;
+   width: fit-content;
+   font-size: 32px;
+    
+}
+.present{
+    width: 300px ;
+height: 280px ;
+background-image: url("kurset.png");
+background-size:cover ;
+margin-bottom: 30px;
+margin: auto;
+
+}
+.present1:hover{
+    background-image: url("zxckurset.gif");
+}
+  
+.present2:hover{
+    background-image: url("4Cnp.gif");
+}
